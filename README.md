@@ -34,7 +34,12 @@ Sample images within the folder are provided and obtained from Oliva et. al.
 
 Example results are in the three sub-folders titled in the order that the program was ran.
 
-Example call: ```python3 hybrid_images dog.bmp cat.bmp dc.bmp 13 7```
+Example call: ```python3 hybrid_images submarine.bmp fish.bmp sf.bmp 5 3```
+
+# Warnings
+
+- The program takes a really long time to run because of the convolution process, so the sigma values should remain small. Otherwise it will take AN ETERNITY
+- You must guess the sigma values that will work best through trial and error
 
 # Sources
 
