@@ -38,9 +38,9 @@ Example call: ```python3 hybrid_images dog.bmp cat.bmp dc.bmp 13 7```
 
 # Sources
 
-Oliva, Aude, Antonio Torralba & Phillippe G. Schyns. “Hybrid Images”, SIGGRAPH, 2006,
+- Oliva, Aude, Antonio Torralba & Phillippe G. Schyns. “Hybrid Images”, SIGGRAPH, 2006,
     http://cvcl.mit.edu/publications/OlivaTorralb_Hybrid_Siggraph06.pdf. Accessed February 7 2019.
-Unknown. “Project 1: Image Filtering and Hybrid Images”, Georgia Tech,
+- Unknown. “Project 1: Image Filtering and Hybrid Images”, Georgia Tech,
     https://www.cc.gatech.edu/~hays/compvision/proj1/. Accessed February 7 2019.
-Liu, Feng. “Introduction to Visual Computing: Lecture 2”, 2019,
+- Liu, Feng. “Introduction to Visual Computing: Lecture 2”, 2019,
     http://web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture2.pdf. Accessed February 7 2019.
