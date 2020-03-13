@@ -25,10 +25,16 @@ the resulting image:
 - gaussian2.bmp: gaussian image result of input image 2
 - laplacian.bmp: laplacian image result of input image 2
 
+# To clone the Project
+
+1. Change directory to the desired project location
+2. Run: ```git clone https://github.com/angelicphan/HybridImages.git```
+
 # To run the program
 
-1. Download the FinalProject folder
-2. Run: ```python3 hybrid_images.py to_be_lowpass_img.bmp to_be_highpass_img.bmp resulting_img.bmp sigma_lowpass_value sigma_highpass_value```
+1. Download requirements: ```pip3 install -r requirements.txt```
+2. Change to the FinalProject folder
+3. Run: ```python3 hybrid_images.py to_be_lowpass_img.bmp to_be_highpass_img.bmp resulting_img.bmp sigma_lowpass_value sigma_highpass_value```
 
 Sample images within the folder are provided and obtained from Oliva et. al.
 
